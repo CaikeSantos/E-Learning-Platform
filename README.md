@@ -17,5 +17,8 @@ Courses available on the platform are identified by a unique code, and they have
 When subscribing to a course, the system records the subscription date. Additionally, the system allows checking if the student has a certificate for a course they subscribed to (which proves the completion of the course), the date of the student's last access to the course, the total number of accesses, and a comment from the student about the course.</p>
 
 <h3>Language used:</h3>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+<div>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
