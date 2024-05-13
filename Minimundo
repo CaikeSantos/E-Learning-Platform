@@ -1,0 +1,5 @@
+Uma plataforma de E-learning (cursos online) permite que alunos se cadastrem e assinem cursos que são minisrados por um professor.
+Um aluno pode assinar um os mais cursos que estão disponíveis na plataforma, dessa mesma forma, um curso, caso tenha algum aluno registrado, pode ter diversos assinantes. Um aluno é identificado pelo seu cpf, além disso todo aluno possui um nome, idade (>= 16 anos), um gênero (masculino, feminino, outro) e um email único para cada usuário.
+Os Cursos disponíveis na plataforma são idetificados por um código único, além disso possuem um título, a duração total (dada em hora), a categoria a que ele pertence (Técnoligia, Administração, Culinária, Enfermagem, Nutrição, Artes, Música, Engenharia, outro), a avaliação do curso (medida de 0 a 5) e um professor responsável que leciona o curso.
+Todo curso é lecionado apenas por 1 professor, esse professor porém pode lecionar diversos cursos. O professor é identificado pelo cpf, além disso possui um nome, idade (maior ou igual a 20 anos), gênero (masculino, feminino, outro), data em que se cadastrou na plataforma, e um email único.
+

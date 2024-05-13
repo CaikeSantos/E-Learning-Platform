@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-06-27T18:41:39.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0" etag="mRLEM-wEQt9f5Tk8RewI" version="21.5.1" type="google">
+  <diagram name="Page-1" id="uCCl_YjoTb3W_I8Cw4bT">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Aluno&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="85" width="60" height="16.603773584905664" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-36" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;cpf&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;nome&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;idade&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;gênero&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;email&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="106.6" width="100" height="93.4" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Curso&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="85" width="60" height="16.603773584905664" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.872;exitDx=0;exitDy=0;entryX=0.997;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="OXL19kNJ5RQVP4hArEjE-38" target="OXL19kNJ5RQVP4hArEjE-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="210" />
+              <mxPoint x="360" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-38" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;código&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;título&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;duração&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;categoria&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;avaliação&lt;br&gt;idioma&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;cpf_professor&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="106.6" width="100" height="133.4" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Assina&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="85" width="60" height="16.603773584905664" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.118;exitDx=0;exitDy=0;entryX=1.025;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="OXL19kNJ5RQVP4hArEjE-40" target="OXL19kNJ5RQVP4hArEjE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.444;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="OXL19kNJ5RQVP4hArEjE-40" target="OXL19kNJ5RQVP4hArEjE-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="153" />
+              <mxPoint x="190" y="220" />
+              <mxPoint x="345" y="220" />
+              <mxPoint x="345" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-40" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;cpf_aluno&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;código_curso&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;data_assinatura&lt;br&gt;certificado&lt;br&gt;ultimo_acesso&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="106.6" width="120" height="103.4" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Professor&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="265" width="60" height="16.603773584905664" as="geometry" />
+        </mxCell>
+        <mxCell id="OXL19kNJ5RQVP4hArEjE-44" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;cpf&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;nome&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;idade&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;gênero&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;email&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;data_de_cadastro&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="286.6" width="130" height="113.4" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
